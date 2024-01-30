@@ -25,3 +25,6 @@ No obstante, aún podemos comparar estos dos métodos, donde notamos que la dife
 
 # Conclusión:
 
+Podemos observar, a través de las gráficas, las tablas y la experiencia, que los tres primeros métodos son eficientes para ordenar arreglos pequeños, de hasta 100 elementos. En este contexto, demuestran ser los más efectivos. Sin embargo, para arreglos de mayor tamaño, se hace evidente la necesidad de recurrir a métodos adicionales, siendo Quick la opción más destacada para ordenar arreglos de tamaño considerable. Asimismo, se observa que el método de burbuja exhibe los peores rendimientos en todos los casos.
+
+Es importante destacar que los tres primeros métodos son más sencillos de recordar y ejecutar, mientras que los dos últimos poseen una lógica más compleja y difícil de entender. La elección del método óptimo dependerá del uso específico y de la preferencia de la persona. No obstante, en términos de eficiencia temporal, surge una clara opción: para arreglos pequeños, el método de inserción, y para arreglos grandes, el método Quick.
