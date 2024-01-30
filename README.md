@@ -10,4 +10,4 @@ Tabla de resultados:
 
 Grafica:
 
-![grafica.jpg](https://github.com/AGN-Teaching/practica-4-algoritmos-de-ordenamiento-joshua-jacuinde-soria/blob/main/tiempos%20de%20ejecucion.pdf)
+![grafica](https://github.com/AGN-Teaching/practica-4-algoritmos-de-ordenamiento-joshua-jacuinde-soria/blob/main/grafica.png)
